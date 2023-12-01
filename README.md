@@ -10,7 +10,7 @@ Provide tileset.json from a 3dtiles dataset and get coordinates. Currently only 
 
 ### Installing
 
-`npm install``
+`npm install`
 
 ### Executing program
 
